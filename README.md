@@ -1,1 +1,1 @@
-# Technology_For_JavaScript_TypeScript_Angular
+# Programming Concepts for Frontend Software Development
